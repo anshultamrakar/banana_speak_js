@@ -2,7 +2,7 @@ const btnTranslate = document.querySelector("#btn-translate");
 const txtInput = document.querySelector("#txt-input");
 const output = document.querySelector("#output")
 
-const serverUrl = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
+const serverUrl = "https://api.funtranslations.com/translate/minion.json"
 
 
 
